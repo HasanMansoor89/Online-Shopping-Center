@@ -58,12 +58,12 @@ Online-Shopping-Center/
 
 3. **Add Images**:
 
-   - Create an `Images` folder in the root directory.
+   - Create an `Images` folder in the docs directory.
    - Place the required image files (`iphone15.jpg`, `SamsungS25.webp`, `GooglePixel8.jpg`) in the `Images` folder.
 
 4. **Open the Website**:
 
-   - Open `Page1.html` in a web browser to view the login page.
+   - Open `index.html` in a web browser to view the login page.
    - Alternatively, use a local server (e.g., via VS Code Live Server or Python's HTTP server) for better functionality:
 
      ```bash
@@ -74,12 +74,12 @@ Online-Shopping-Center/
 
 ## Usage
 
-- Start at `Page1.html` to view the login page.
+- Start at `index.html` to view the login page.
 - Click the "Submit" button to navigate to `Page2.html`, which lists available products.
 - Click on any product link to view detailed information on the respective product page (`Iphone15.html`, `SamsungS25.html`, or `GooglePixel8.html`).
 - Use the navigation bar to return to the login page or products page.
 
-**Note**: The login form is non-functional and serves as a placeholder. Image paths assume the `Images` folder is in the root directory.
+**Note**: The login form is non-functional and serves as a placeholder. Image paths assume the `Images` folder is in the docs directory.
 
 ## Contributing
 
@@ -99,4 +99,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## GitHub Pages
 
-[\[Link to the live site on GitHub Pages\]](https://hasanmansoor89.github.io/Online-Shopping-Center/)#
+[\[Link to the live site on GitHub Pages\]](https://hasanmansoor89.github.io/Online-Shopping-Center/)
