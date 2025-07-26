@@ -95,7 +95,7 @@ Please ensure your code follows basic HTML standards and includes appropriate co
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## GitHub Pages
 
