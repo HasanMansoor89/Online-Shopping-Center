@@ -29,7 +29,7 @@ The Online Shopping Center is a front-end-only website designed to simulate an e
 
 ```plaintext
 Online-Shopping-Center/
-├── Docs/                 
+├── docs/                 
 │   ├── Page1.html          # Login page
 │   ├── Page2.html          # Products listing page
 │   ├── Iphone15.html       # iPhone 15 product details
